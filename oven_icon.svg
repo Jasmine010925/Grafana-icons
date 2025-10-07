@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<svg baseProfile="full" height="64px" version="1.1" width="64px"
+<svg baseProfile="full" height="1024px" version="1.1" width="1024px"
      xmlns="http://www.w3.org/2000/svg"
      xmlns:ev="http://www.w3.org/2001/xml-events"
      xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs />
-  <rect fill="white" height="64px" width="64px" x="0" y="0" />
-  <path d="M 12,3 L 11,4 L 10,4 L 9,5 L 9,6 L 8,7 L 8,56 L 9,57 L 9,58 L 10,59 L 11,59 L 12,60 L 51,60 L 52,59 L 53,59 L 54,58 L 54,57 L 55,56 L 55,7 L 54,6 L 54,5 L 53,4 L 52,4 L 51,3 Z"
-        fill="currentColor" />
+  <rect fill="white" height="1024px" width="1024px" x="0" y="0" />
+  <path d="M 218,49 217,50 212,50 ... 805,49 Z" fill="currentColor" />
 </svg>
