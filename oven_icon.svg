@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<svg baseProfile="full" height="1024px" version="1.1" width="1024px"
+<svg baseProfile="full" height="128px" version="1.1" width="128px"
      xmlns="http://www.w3.org/2000/svg"
      xmlns:ev="http://www.w3.org/2001/xml-events"
      xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs />
-  <rect fill="white" height="1024px" width="1024px" x="0" y="0" />
-  <path d="M 218,49 217,50 212,50 ... 805,49 Z" fill="currentColor" />
+  <rect fill="white" height="128px" width="128px" x="0" y="0" />
+  <!-- Each dark pixel is drawn as a 1x1 rectangle -->
+  <rect fill="currentColor" height="1" width="1" x="26" y="6" />
+  <rect fill="currentColor" height="1" width="1" x="27" y="6" />
+  <rect fill="currentColor" height="1" width="1" x="28" y="6" />
+  <!-- ... many more rectangles ... -->
 </svg>
